@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 group-title="MUSICA",PortalFoxMix Tv (REGUETON,TECKNO)
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",BHTV 702 PE
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CENTRAL TV PE CHOSICA
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="DEPORTE",Radio Ovacion pE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Music Top Argentina (KPOP)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Telemax AR
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/5HTSXV4.png",Canal 26 AR
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 group-title="RELIGION",Extrema TV CR
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvt-logo="http://it.heytv.org/wp-content/uploads/2019/03/1-1P5112029540-L-1.jpg",Radio Tv m2o Italy
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Multivision AR
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1259692347.m3u8
+#EXTINF:-1 group-title="MUSICA",Onda TV RD (REGUETON)
+http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+#EXTINF:-1 group-title="CULTURAL",CANAL 44 guadalajara MEX
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 group-title="MUSICA",RETRO TV (ROCK)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CANAL 10 MEX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",PIGUINO TV HD CL
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Medios Rioja La Rioja HD AR
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:-1 group-title="MUSICA",Medios Rioja HD AR POR LA TARDE
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:-1 group-title="MUSICA",VIET MTV ACTUAL
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="FAMILIAR",TELEMAR CAMPECHE
+https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",MAXIMA
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w407244744.m3u8
+#EXTINF:-1 group-title="MUSICA",PORTAL FOXMIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w25865093.m3u8
+#EXTINF:-1 group-title="MUSICA",LA MEGA MUNDIAL
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1872567971.m3u8
+#EXTINF:-1 group-title="MUSICA",CAROLINA TV CL REGUETON
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream0/chunks.m3u8
+#EXTINF:-1 group-title="MUSICA",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1246990407.m3u8
+#EXTINF:-1 group-title="MUSICA",TOP LATINO1
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA",VISION TV variado PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w722606844.m3u8
+#EXTINF:-1 group-title="MUSICA",MI GENTE CO POP
+https://hvtrafico.ddns.net/migente720/migente720.stream/chunklist_w2084337772.m3u8
+#EXTINF:-1 group-title="MUSICA",COLOSAL TV ACTUAL
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w96459380.m3u8
+#EXTINF:-1 group-title="MUSICA",CADENA ELITE ES POP
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSICA",HEI TV ACTUALES
+https://rds3gen.desdeparaguay.net/heitv/heitv_int_alta/chunklist_w897166622.m3u8
+#EXTINF:-1 group-title="MUSICA",RADIO PATAGONIA
+https://video01.logicahost.com.br/grupomedia/grupomedia/chunklist_w1712595780.m3u8
+#EXTINF:-1 group-title="MUSICA",Best Cable Music PE variado
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA",Best Cable Music PE FAMILIAR
+https://tv.siete.us:19360/bestcable/bestcable/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA",HatunTV PE Huayno
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA",Karibeña PE Cumbia
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA",MAS CUMBIA TV PE Cumbia
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA",MUNDO DE LA MUSICA CL CLASICAS
+https://593b04c4c5670.streamlock.net:443/8018/8018/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA",TURBO MIX TV PE CUMBIA
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 group-title="MUSICA",Zapping Music CL ROCK
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NOTICIAS",VNP HD PE 
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CINE CLUB PE
+https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NOTICIAS",EXITOSA PE
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FAMILIAR",HECHICERA TV PE NORTE
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FAMILIAR",MEGA TV PE AREQUIPA
+https://mediastreamm.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA",PERUANISIMA TV PE SALSA
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FAMILIAR",UNITEL HUANCAYO PE
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FAMILIAR",VIA TV TARAPOTO PE
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="RELIGION",JN19 PE
+https://mediastreamm.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FAMILIAR" tvg-logo="https://graph.facebook.com/antaresTvRadioOficial/picture?width=320&height=320",Antares Televisión (720p) ABANCAY PE
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",AsiriTV (Lima) PE CUMBIA
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Bella Abanquina TV PE(Apurimac)
+https://v4.tustreaming.cl/bellatv/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 8(Catacaos) PE
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:-1 group-title="CULTURAL",Canal E (Altomayo) PE
+https://srv1.mediastreamperu.com:8081/8006/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ClipsTV (Ica) PE
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Conecta2TV (Lima) PE
+https://mediastreamm.com:3528/live/conect2tvlive.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CR Television (Moyobamba) PE
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 group-title="FAMILIAR",CreoTV (Cajamarca) PE
+https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DMJ (Cuzco) PE
+https://v4.tustreaming.cl/s1tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Genios TV (Moyobamba) ALTERNATIVO PE
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Gold Valley TV (Casma) PE
+https://stmv.panel.grupolimalive.com/gold/gold/playlist.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Huánuco en Vivo PE
+https://cp.sradiotv.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Imagen Televisión (Rioja) (720p) PE
+http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Impacto Televisión (Cajamarca) (FOLCKORE) PE
+https://eu1.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",La Ribereña (Pucallpa) PE
+https://inliveserver.com:1936/19020/19020/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",LimaLive PE
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",LotPlus TV (Chiclayo) REGUETON PE
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Master TV (Tarapoto) PE
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1 group-title="FAMILIAR",MaticesTV (Cañete) PE
+http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PeruvianRadio TV PE
+https://stmv.panel.grupolimalive.com/peruviantv/peruviantv/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Planeta TV Bagua (720p) PE
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Planeta TV Moyobamba (720p) PE
+https://live.obslivestream.com/planetatvmux/index.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Proyecta Televisión (Huacho) PE
+https://mediastreamm.com:3194/live/proyectatvlive.m3u8
+#EXTINF:-1 group-title="NOTICIAS",QT Televisión (Cuzco) PE
+https://mediastreamm.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Quillavision (Cuzco) PE
+http://v4.tustreaming.cl/quillavision/index.m3u8
+#EXTINF:-1 group-title="Local",Radio Tropical Tarapoto PE BAILABLE
+https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Radio TV Binacional (Desaguadero)  PE
+https://cp.sradiotv.com:1936/binacional/binacional/playlist.m3u8
+#EXTINF:-1 group-title="FAMILIAR",RN Televisión (Yurimaguas) PE
+https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Sol Stereo TV (Casma) PE
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Super Canal (Yurimaguas) PE
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+#EXTINF:-1 group-title="NOTICIAS",SurTV (Ilo) (720p) PE
+https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Televisión Tarapoto (720p)
+https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Tumpis TV (Tumbes) PE
+https://mediastreamm.com:3531/live/tumpistvlive.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",VamisaTV (Lima) SALSA PE
+https://vps1.lnx.pe/vamisa/envivo/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Vía Televisión (Tarapoto) PE
+https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",X TV (Chachapoyas) PE
+https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
+#EXTINF:-1 group-title="FAMILIAR",Panamericana TV PE
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 group-title="NOTICIAS",TV Perú PE
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 group-title="FAMILIAR",UCI (1080p)
+http://170.79.102.223/UCI/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 group-title="NOTICIAS",RT en Español (1080p)
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTE",Claro Sports
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 group-title="Culture",USMPTV PE
+http://200.48.236.2:8080/live/stream.m3u8
+#EXTINF:-1 group-title="DEPORTE",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 group-title="MUSICA",Radio San Borja TV PE VARIADO
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Retro Plus Tv INGLES VARIADO
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Retro Plus 2 ROMANTICA
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Magic Kids
+https://live.admefy.com/live/240/clean_peach_ef224.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Perú Channel 
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Canal 10 (1080p)
+http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
